@@ -65,9 +65,8 @@ Aquesta evolució demostra que el programari ha pres el comandament del disseny 
 
 * Google (2026). **Gemini (Versió 3 Flash)** [Model de llenguatge extens].
 
-* mgea, Miguel Gea. (https://github.com/mgea/PEC3_Manovich_Reloaded)
+* mgea, Miguel Gea. https://github.com/mgea/PEC3_Manovich_Reloaded
 
 ----
 
-Llicència: Material Creative Commons desarrollat sota llicència CC BY-SA 4.0.
-Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Llicència: Material Creative Commons desenvolupat sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca)
