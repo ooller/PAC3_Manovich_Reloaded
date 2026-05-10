@@ -70,17 +70,15 @@ Aquesta evolució demostra que el programari ha pres el comandament del disseny 
 
 ### Bibliografía i referències
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC 
 
-* Adell, Ferran. (2024). **Remediació, multimèdia i hibridació**. Barcelona: Editorial UOC.
+* Adell, Ferran. (2024). **Remediació, multimèdia i hibridació**. Barcelona: Editorial UOC
 
-* Muñoz-Justicia, Juan. (2014). **Coneixement Obert i Tecnologia**. Barcelona: Editorial UOC.
+* Muñoz-Justicia, Juan. (2014). **Coneixement Obert i Tecnologia**. Barcelona: Editorial UOC
 
 * mgea, Miguel Gea. https://github.com/mgea/PEC3_Manovich_Reloaded
 
-* Google (2026). **Gemini (Versió 3 Flash)** [Model de llenguatge extens].
-
-S'ha utilitzat la IA com a suport per a l'estructuració del text i la correcció sintàctica
+* Google (2026). **Gemini (Versió 3 Flash)** [Model de llenguatge extens]
 
 ### Recursos de:
 
