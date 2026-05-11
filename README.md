@@ -80,7 +80,7 @@ Aquesta evolució demostra que el programari ha pres el comandament del disseny 
 
 * Google (2026). **Gemini (Versió 3 Flash)** [Model de llenguatge extens]
 
-### Recursos de:
+### Recursos de: 
 
 * [Ikea](https://www.ikea.com/es/ca/)
 
